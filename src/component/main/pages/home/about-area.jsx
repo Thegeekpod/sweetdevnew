@@ -8,7 +8,7 @@ const about_content = {
   des: (
     <>
       Being employee-owned keeps us focused on the unique needs of our users,
-      and we wouldn't have it any other way. Our many security features include
+      and we wouldnt have it any other way. Our many security features include
       Multi Factor Authentication, auto-enabled sFTP .
     </>
   ),

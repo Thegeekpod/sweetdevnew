@@ -134,7 +134,7 @@ const VoiceControl = () => {
     } else {
       console.error('Speech Recognition is not supported in this browser.');
     }
-  }, [listening, permissionDenied]);
+  }, [listening, permissionDenied, navigate]);
 
   const toggleListening = () => {
     if (listening) {
